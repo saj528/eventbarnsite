@@ -45,9 +45,6 @@
 
     </nav>
     <!--end nav-->
-    <div class="centerbannertext">
-        <h1 align="center" class="topbarcolor">Welcome to <br /><span class="cursiveex">Chef Bistro</span></h1>
-    </div>
     <div class="row">
 
         <div class="col-md-6 col-md-offset-3" id="result" align="center">

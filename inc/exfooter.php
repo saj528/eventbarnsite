@@ -11,17 +11,18 @@
 					<ul class="m-b-70">
 						<li class="txt14 m-b-14">
 							<i class="fa fa-map-marker fs-16 dis-inline-block size19" aria-hidden="true"></i>
-							123 Street, SmallTown, USA
+							5450 Cal-Kolola Rd<br>
+							Caledonia, MS 39740
 						</li>
 
 						<li class="txt14 m-b-14">
 							<i class="fa fa-phone fs-16 dis-inline-block size19" aria-hidden="true"></i>
-							(225)-364-9846
+							662-386-1712 
 						</li>
 
 						<li class="txt14 m-b-14">
 							<i class="fa fa-envelope fs-13 dis-inline-block size19" aria-hidden="true"></i>
-							alexj@restaurantswebdesign.com
+							rhondaunrah@wisteriavineseventbarn.com
 						</li>
 					</ul>
 				</div>
