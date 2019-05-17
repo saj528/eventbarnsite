@@ -30,22 +30,23 @@
 				<div class="col-sm-6 col-md-4 p-t-50">
 					<!-- - -->
 					<h4 class="txt13 m-b-33">
-						Opening Times
+						Social Media
 					</h4>
 
-					<ul class="m-b-70">
-						<li class="txt14 m-b-14">
-							10:00 AM – 12:00 PM
-						</li>
-
-						<li class="txt14 m-b-14">
-							Every Day
-						</li>
-          </ul>
-
-					<p class="copymark" align="center" >&copy; 2019 restaurantswebdesign.com</p> 
+					<div class="m-b-70">
+						<div class="txt14 m-b-14">
+							<a class="navbar-brand" href="https://www.facebook.com/pages/category/Performance---Event-Venue/Wisteria-Vines-Event-Barn-567257953474677/">
+								<img class="socialmediaimage" alt="Brand" src="images/facebook.png">
+							</a>
+						</div>
+					</div>
+					<br />
+	
 				</div>
 			</div>
+		</div>
+		<div>
+			<p class="copymark" align="center" >&copy; 2019 restaurantswebdesign.com</p> 
 		</div>
 
 		<div class="end-footer bg2">
