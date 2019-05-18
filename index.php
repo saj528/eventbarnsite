@@ -24,17 +24,17 @@
       <div class="container">
           <div class="row">
             <div class="col-md-4" align="center">
-                <img src="images/wveb.jpg" alt="great food" class="img-responsive roundedimg">
+                <img src="images/wveb5.jpg" alt="food buffet in ballrom" class="img-responsive roundedimg">
                 <h2>Events</h2>
                 <p>Whether it's a family reunion, birthday party, or a church event, we can host any event. | <a href="index.php">More</a></p>
             </div>
             <div class="col-md-4" align="center">
-                <img src="images/wveb1.jpg" alt="historical downtown" class="img-responsive roundedimg">
+                <img src="images/wveb1.jpg" alt="beautiful Christmas display" class="img-responsive roundedimg">
                 <h2>Weddings</h2>
                 <p>Your wedding day is the most important day of your life and we will make sure it's the experience you will always cherish.</p>
             </div>
             <div class="col-md-4" align="center">
-                <img src="images/wveb5.jpg" alt="atmosphere" class="img-responsive roundedimg">
+                <img src="images/wveb.jpg" alt="stage set to get married" class="img-responsive roundedimg">
                 <h2>Amenities</h2>
                 <p>We have a large ballroom that can host a party of any size. We also have a full service kitchen and a bridal and groom suite. | <a href="index.php">More</a> </p>
             </div>
