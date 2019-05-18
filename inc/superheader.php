@@ -4,10 +4,10 @@
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <meta name="description" content="Restaurant growth: websites, SEO, social media and online marketing."/>
+      <meta name="description" content="Wisteria Vines Event Barn, Weddings Events Caledonia Mississippi"/>
     
     
-    <title>Restaurant Growth: Websites, SEO and More</title>
+    <title>Wisteria Vines Event Barn, Weddings Events Caledonia Mississippi</title>
 
        <!-- CSS Stylesheets -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -23,7 +23,7 @@
    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
     
   <!-- Favicon -->
-   <link rel="icon" href="images/appleIcon.png">
+   <link rel="icon" href="images/wveblogo2.png">
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-119761346-4"></script>

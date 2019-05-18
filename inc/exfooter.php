@@ -46,7 +46,7 @@
 			</div>
 		</div>
 		<div>
-			<p class="copymark" align="center" >&copy; 2019 restaurantswebdesign.com</p> 
+			<p class="copymark" align="center" >&copy; 2019 alexjoiner.net</p> 
 		</div>
 
 		<div class="end-footer bg2">
