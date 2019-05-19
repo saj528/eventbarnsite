@@ -170,6 +170,14 @@
 	font-weight: bold !important;
 }
 
+.textcolorpurple {
+	color: #442b65 !important;
+}
+
+.packagesimages {
+	width: 50%;
+}
+
 #morecustomers p {
 	color: #454867;
 	font-size: 18px;
