@@ -21,7 +21,8 @@ textarea {
 	display: block;
 }
 
-.icon-addon:after, .icon-addon:before {
+.icon-addon:after,
+.icon-addon:before {
 	display: table;
 	content: " ";
 }
@@ -30,7 +31,10 @@ textarea {
 	clear: both;
 }
 
-.icon-addon.addon-md .glyphicon, .icon-addon .glyphicon, .icon-addon.addon-md .fa, .icon-addon .fa {
+.icon-addon.addon-md .glyphicon,
+.icon-addon .glyphicon,
+.icon-addon.addon-md .fa,
+.icon-addon .fa {
 	position: absolute;
 	z-index: 2;
 	left: 10px;
@@ -56,27 +60,33 @@ textarea {
 	line-height: 1.5;
 }
 
-.icon-addon.addon-lg .fa, .icon-addon.addon-lg .glyphicon {
+.icon-addon.addon-lg .fa,
+.icon-addon.addon-lg .glyphicon {
 	font-size: 18px;
 	margin-left: 0;
 	left: 11px;
 	top: 12px;
 }
 
-.icon-addon.addon-md .form-control, .icon-addon .form-control {
+.icon-addon.addon-md .form-control,
+.icon-addon .form-control {
 	padding-left: 30px;
 	float: left;
 	font-weight: normal;
 }
 
-.icon-addon.addon-sm .fa, .icon-addon.addon-sm .glyphicon {
+.icon-addon.addon-sm .fa,
+.icon-addon.addon-sm .glyphicon {
 	margin-left: 0;
 	font-size: 12px;
 	left: 5px;
 	top: -1px
 }
 
-.icon-addon .form-control:focus+.glyphicon, .icon-addon:hover .glyphicon, .icon-addon .form-control:focus+.fa, .icon-addon:hover .fa {
+.icon-addon .form-control:focus+.glyphicon,
+.icon-addon:hover .glyphicon,
+.icon-addon .form-control:focus+.fa,
+.icon-addon:hover .fa {
 	color: #697D7C;
 }
 
@@ -100,10 +110,9 @@ form p {
 
 form {
 	width: 70%;
-	margin-left: 75px;
+	margin-left: 10px;
 	padding: 30px;
 	box-sizing: border-box;
-	background-color: #ffffff;
 	box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2);
 }
 
@@ -178,7 +187,11 @@ label {
 	border: 5px solid #ffb701;
 }
 
-.submit:hover, .submit:focus, .submit:active, .submit.active, .open>.dropdown-toggle .submit {
+.submit:hover,
+.submit:focus,
+.submit:active,
+.submit.active,
+.open>.dropdown-toggle .submit {
 	color: #ffb701;
 	background-color: #ffffff;
 	border: 5px solid #ffb701;
@@ -209,20 +222,24 @@ label {
 		background-color: #ffffff;
 		box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2);
 	}
+
 	.submit {
 		font-size: 18px !important;
 		font-family: 'Montserrat', sans-serif;
 		padding: 5px 5px 5px 5px;
 	}
+
 	input {
 		font-size: 14px !important;
 	}
+
 	form {
 		padding: 15px;
 		box-sizing: border-box;
 		background-color: #ffffff;
 		box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2);
 	}
+
 	.submit {
 		font-size: 20px !important;
 	}
@@ -232,6 +249,7 @@ label {
 	.submit {
 		font-size: 22px !important;
 	}
+
 	form {
 		width: 80%;
 		margin-left: 60px;

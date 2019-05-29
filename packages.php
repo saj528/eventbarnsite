@@ -23,14 +23,13 @@ Event Barn coordinator. Please note that prices are subject to change.
               <li>Exclusive 2-day access to the entire ground at Wisteria Vines Event Barn</li>
               <li>Reception in the ballroom, which is fully equipped for your electrical needs. Dance floor</li>
               <li>Bridal table for the couple</li>
-              <li>All needed food and beverage tables</li>
-              <li>Private bridal suite with light refreshments</li>
-              <li>Private groom’s quarters with light refreshments</li>
-              <li>(3) 6’ foot tables for your Guestbook, gifts & favors</li>
+              <li>Food and beverage tables</li>
+              <li>Private bridal suite</li>
+              <li>Private groom’s quarters</li>
+              <li>(3) 8’ foot tables for your Guestbook, gifts & favors</li>
               <li>Spacious parking Lot</li>
               <li>20 round guest tables</li>
               <li>130 chairs; perfect for an average wedding of 150 guests to set both the ceremony & reception</li>
-              <li>Linens, floor length, for all included tables in your choice of white or ivory</li>
             </ul>
 
             <h3 align="center">Pricing</h3>

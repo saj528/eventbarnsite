@@ -1,7 +1,7 @@
 <?php require_once 'inc/exheader.php'; ?>
 <div id="morecustomers">
   <div class="container">
-    <h3 align="center">Menu</h3>
+    <h3 align="center">Services</h3>
     <hr>
     <br>
     

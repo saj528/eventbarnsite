@@ -18,9 +18,9 @@
             <ul class="nav navbar-nav">
                <li align="center"> <a href="gallery.php">GALLERY</a></li>
                <li align="center"> <a href="services.php">SERVICES</a></li>
-               <li align="center"> <a href="gallery.php">FAQ</a></li>
-               <li align="center"> <a href="expabout.php">PACKAGES</a></li>
-               <li align="center"> <a href="expabout.php">DEPOSIT</a></li>
+               <li align="center"> <a href="faq.php">FAQ</a></li>
+               <li align="center"> <a href="packages.php">PACKAGES</a></li>
+               <li align="center"> <a href="#foot">DEPOSIT</a></li>
             </ul>
          </div>
          <!--end navbar-collapse-->
